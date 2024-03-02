@@ -1,0 +1,146 @@
+{
+  "Header": {
+    "title": "اتعلم Fluttr واصنع تطبيقاتك الخاصة",
+    "paragraph": "اتعلم كل الي تحتاجه لبناء تطبيقاتك الخاصة بآفضل طريقة ممكنة و تكون عندك خبرة في البرمجة بلغة Dart و اتقان Flutter و تكون جاهز لسوق العمل"
+  },
+  "About": {
+    "paragraph": " كمدرب متمرس في تطوير تطبيقات الجوال، أتخصص في Flutter و Dart. بخبرة واسعة في تطوير تطبيقات Flutter المبتكرة وقيادة المشاريع مع فريق رائع في InCode، أقدم المعرفة العملية لطلابي. ملتزم بالبقاء على اطلاع دائم مع أحدث الاتجاهات في الصناعة، وأنشئ بيئة تعلم ديناميكية تجهز المطورين الطموحين بالمهارات اللازمة للتفوق. هدفي هو أن ألهم وأمنح الطلاب القدرة على النجاح في عالم تطوير تطبيقات الجوال المتطور.",
+    "Why": [
+      "هنعلمك البرمجة من الصفر",
+      "هتكون جاهز لسوق العمل",
+      "هتتعلم clean code",
+      "هتتعلم OOP"
+    ],
+    "Why2": [
+      "هتتقن Flutter و Dart",
+      "هتتعلم Git و GitHub",
+      "هتتعلم SOLID Principles",
+      "هتتعلم ازاي تكون مبرمج شاطر و اكتر"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "ERP and Dashboards",
+      "largeImage": "img/portfolio/dashboards.png",
+      "smallImage": "img/portfolio/dashboards.png"
+    },
+    {
+      "title": "Any e-commerce",
+      "largeImage": "img/portfolio/ecommerce.png",
+      "smallImage": "img/portfolio/ecommerce.png"
+    },
+    {
+      "title": "Social Media Apps",
+      "largeImage": "img/portfolio/socialmedia.webp",
+      "smallImage": "img/portfolio/socialmedia.webp"
+    },
+    {
+      "title": "Healthcare Apps",
+      "largeImage": "img/portfolio/healthcare.jpg",
+      "smallImage": "img/portfolio/healthcare.jpg"
+    },
+    {
+      "title": "Desktop Apps",
+      "largeImage": "img/portfolio/desktop.png",
+      "smallImage": "img/portfolio/desktop.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/me.jpeg",
+      "name": "Kyrillos Maher Fekry",
+      "job": "Flutter Developer @InCode. & Instructor"
+    }
+  ],
+  "Contact": {
+    "address": "كنيسة السيدة العذراء مريم وماريوحنا  الحبيب القبطية الأرثوذكسية، النوارة، عزبة النخل، القاهرة، مصر",
+    "phone": "01128032533",
+    "email": "kyrillosmaherfekri@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-mobile",
+      "title": "Cross Platform Apps",
+      "text": "إنشاء تطبيق واحد ونشره على عدة منصات زي Android و IOS , Desktop و Web ."
+    },
+    {
+      "icon": "fa fa-database",
+      "title": "SQLite Database & NoSQL",
+      "text": "تعلم كيفية استخدام و انشاء قواعد البيانات ال Local و كيفية التعامل معها."
+    },
+    {
+      "icon": "fa fa-server",
+      "title": "APIs & Networking",
+      "text": "تعلم كيفية التعامل مع ال APIs و كيفية استخدامها في تطبيقاتك الخاصة."
+    },
+    {
+      "icon": "fa fa-code",
+      "title": "Best Practices",
+      "text": "تعلم كيفية كتابة الكود بأفضل الطرق الممكنة و كيفية تنظيم الكود و تنظيم الملفات."
+    }
+  ]
+}
