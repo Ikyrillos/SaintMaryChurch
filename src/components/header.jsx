@@ -18,14 +18,21 @@ export const Header = (props) => {
                   className="btn btn-custom btn-lg page-scroll"
                   target="_blank"
                   rel="noreferrer"
+                  style={{
+                    marginTop: "10px",
+                  }}
                 >
                   محتوي الدبلومة
-                </a>{" "}
+                </a>
+                {"  "}
                 <a
                   href="https://drive.google.com/file/d/1yYPNNZU0YggMIb8MXKcRSoOkiGVQJ1SK/view?usp=sharing"
                   className="btn btn-custom btn-lg page-scroll"
                   target="_blank"
                   rel="noreferrer"
+                  style={{
+                    marginTop: "10px",
+                  }}
                 >
                   اعلان و سعر الدبلومة
                 </a>{" "}
