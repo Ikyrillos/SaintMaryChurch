@@ -1,7 +1,12 @@
+body,
+[dir="rtl"] {
+  width: 100vw !important;
+  overflow-x: hidden !important;
+}
 @media screen and (max-width: 400px) {
   #features {
     padding: 20px;
-    width: 111%;
+    width: 100vw;
   }
   #about,
   #services,
@@ -9,10 +14,10 @@
   #team,
   #contact,
   #footer {
-    width: 111%;
+    width: 100vw;
   }
 
   #portfolio {
-    width: 110%;
+    width: 100vw;
   }
 }
