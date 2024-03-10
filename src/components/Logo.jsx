@@ -12,6 +12,7 @@ function Logo() {
       <span
         style={{
           marginLeft: "0.4em",
+          direction: "ltr",
         }}
       >
         Saint Mary's Church
