@@ -36,6 +36,24 @@ export const Header = (props) => {
                 >
                   اعلان و سعر الدبلومة
                 </a>{" "}
+                <a
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSeXGolmMxIYb4YIBItr0HpfOdXtFSWxwt2XyEvQdtQoAU4vuQ/viewform?usp=sf_link"
+                  className="btn btn-lg page-scroll"
+                  target="_blank"
+                  rel="noreferrer"
+                  style={{
+                    // green gradient
+                    background: "linear-gradient(to right, #00b09b, #96c93d)",
+                    marginTop: "10px",
+                    color: "white",
+                    height: "50px",
+                    paddingLeft: "50px",
+                    paddingRight: "50px",
+                    borderRadius: "20px",
+                  }}
+                >
+                  التسجيل
+                </a>{" "}
               </div>
             </div>
           </div>
